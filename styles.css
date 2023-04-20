@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+nav ul {
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+}
+
+.navItem {
+	margin-right: 10px;
+}
